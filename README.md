@@ -1,4 +1,4 @@
-# Telco Customet Churn prediction
+# Telco Customer Churn prediction
 Churn (attrition) in the context of a subscriber-based service model is the measure of the
 number of individuals that leave the supplier during a given time period. Churn rate is a
 possible indicator of customer dissatisfaction, cheaper and/or better offers from the
